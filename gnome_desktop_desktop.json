@@ -1,0 +1,24 @@
+{
+  "area": [
+    {
+      "xpos": 407,
+      "ypos": 3,
+      "width": 228,
+      "height": 27,
+      "type": "exclude"
+    },
+    {
+      "xpos": 0,
+      "ypos": 0,
+      "width": 1024,
+      "height": 768,
+      "type": "match",
+      "match": 95
+    }
+  ],
+  "properties": [],
+  "tags": [
+    "gnome_desktop_desktop"
+  ]
+}
+
