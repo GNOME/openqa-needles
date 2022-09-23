@@ -1,0 +1,26 @@
+{
+  "area": [
+    {
+      "ypos": 43,
+      "type": "match",
+      "xpos": 91,
+      "height": 36,
+      "width": 67,
+      "click_point": {
+        "xpos": 33.5,
+        "ypos": 18
+      }
+    },
+    {
+      "height": 734,
+      "width": 1020,
+      "ypos": 34,
+      "type": "match",
+      "xpos": 2
+    }
+  ],
+  "properties": [],
+  "tags": [
+    "gnome_firstboot_accounts"
+  ]
+}
