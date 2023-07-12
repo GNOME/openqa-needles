@@ -1,0 +1,15 @@
+{
+  "area": [
+    {
+      "height": 46,
+      "ypos": 33,
+      "xpos": 0,
+      "type": "match",
+      "width": 1023
+    }
+  ],
+  "properties": [],
+  "tags": [
+    "app_gnome_calendar_home"
+  ]
+}
