@@ -1,0 +1,33 @@
+{
+   "area": [
+
+      {
+         "xpos": 255,
+         "ypos": 31,
+         "height": 768,
+         "width": 1024,
+         "type": "exclude"
+       },
+      {
+         "xpos": 360,
+         "ypos": 104,
+         "width":563,
+         "height": 51,
+         "type": "match",
+         "match": 93 ,
+         "click_point": {
+            "xpos": 49,
+            "ypos": 33
+         }
+   }
+    
+   ],
+   "tags": [
+      "app_settings_accessibility_hearing_overamplication_button"
+    ]
+}
+
+
+   
+
+  
