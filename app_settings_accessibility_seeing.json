@@ -1,0 +1,25 @@
+{
+   "area": [
+      {
+         "xpos": 800,
+         "ypos": 184,
+         "width":112 ,
+         "height": 41,
+         "type": "match",
+         "match": 93 ,
+         "click_point": {
+      "xpos": 59,
+      "ypos": 26
+   }
+   }
+    
+   ],
+   "tags": [
+      "app_settings_accessibility_seeing"
+    ]
+}
+
+
+   
+
+  
