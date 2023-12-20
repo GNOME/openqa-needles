@@ -1,26 +1,19 @@
 {
    "area": [
-
-      {
-         "xpos": 356,
-         "ypos": 374,
-         "width":574 ,
-         "height": 61,
-         "type": "match",
-         "match": 93 ,
-         "click_point": {
-      "xpos": 287,
-      "ypos":31.5 
-      }
-      }
-    
+       {
+           "xpos": 356,
+           "ypos": 374,
+           "width": 574,
+           "height": 61,
+           "type": "match",
+           "match": 93,
+           "click_point": {
+               "xpos": 287,
+               "ypos": 31.5
+           }
+       }
    ],
    "tags": [
-      "app_settings_accessibility_overlay_scrollbar_off"
-    ]
+       "app_settings_accessibility_overlay_scrollbar_off"
+   ]
 }
-
-
-   
-
-  
