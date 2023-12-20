@@ -1,33 +1,19 @@
 {
    "area": [
-
-      {
-         "xpos": 255,
-         "ypos": 31,
-         "height": 768,
-         "width": 1024,
-         "type": "exclude"
-       },
-      {
-         "xpos": 574,
-         "ypos": 165,
-         "width":50,
-         "height": 26,
-         "type": "match",
-         "match": 93 ,
-         "click_point": {
-            "xpos": 25,
-            "ypos": 13
-         }
-   }
-    
+       {
+           "xpos": 574,
+           "ypos": 165,
+           "width": 50,
+           "height": 26,
+           "type": "match",
+           "match": 93,
+           "click_point": {
+               "xpos": 25,
+               "ypos": 13
+           }
+       }
    ],
    "tags": [
-      "app_sound_default_volume"
-    ]
+       "app_sound_default_volume"
+   ]
 }
-
-
-   
-
-  

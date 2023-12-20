@@ -1,33 +1,19 @@
 {
    "area": [
-
-      {
-         "xpos": 255,
-         "ypos": 31,
-         "height": 768,
-         "width": 1024,
-         "type": "exclude"
-       },
-      {
-         "xpos": 356,
-         "ypos": 233,
-         "width":570 ,
-         "height": 54,
-         "type": "match",
-         "match": 93 ,
-         "click_point": {
-            "xpos": 139.5,
-            "ypos": 27
-         }
-   }
-    
+       {
+           "xpos": 359,
+           "ypos": 241,
+           "width": 562,
+           "height": 56,
+           "type": "match",
+           "match": 93,
+           "click_point": {
+               "xpos": 139.5,
+               "ypos": 28
+           }
+       }
    ],
    "tags": [
-      "app_settings_accessibility_hearing"
-    ]
+       "app_settings_accessibility_hearing"
+   ]
 }
-
-
-   
-
-  
