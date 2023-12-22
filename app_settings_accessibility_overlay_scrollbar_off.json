@@ -11,6 +11,13 @@
                "xpos": 287,
                "ypos": 31.5
            }
+       },
+       {
+           "ypos": 272,
+           "width": 13,
+           "xpos": 239,
+           "height": 496,
+           "type": "match"
        }
    ],
    "tags": [
