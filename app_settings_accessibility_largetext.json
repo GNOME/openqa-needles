@@ -1,22 +1,19 @@
 {
-   "area": [
-      {
-   
-
-         "xpos": 864,
-         "ypos": 232,
-         "width": 40,
-         "height": 18,
-         "type": "match",
-         "match": 93,
-         "click_point": {
-            "xpos": 20,
-            "ypos": 9
-         }
+  "area": [
+    {
+      "xpos": 864,
+      "ypos": 232,
+      "width": 40,
+      "height": 18,
+      "type": "match",
+      "match": 93,
+      "click_point": {
+        "xpos": 20,
+        "ypos": 9
       }
-   ],
-   
-   "tags": [
-      "app_settings_accessibility_largetext"
-    ]
+    }
+  ],
+  "tags": [
+    "app_settings_accessibility_largetext"
+  ]
 }
