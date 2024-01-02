@@ -1,0 +1,33 @@
+{
+    "area": [
+        {
+            "xpos": 219,
+            "ypos": 723,
+            "width": 75,
+            "height": 45,
+            "type": "match",
+            "match": 93,
+            "click_point": {
+                "xpos": 37.5,
+                "ypos": 22.5,
+                "id": "number_mode"
+            }
+        },
+        {
+            "xpos": 713,
+            "ypos": 722,
+            "width": 97,
+            "height": 45,
+            "type": "match",
+            "match": 93,
+            "click_point": {
+                "xpos": 48.5,
+                "ypos": 22.5,
+                "id": "hide"
+            }
+        }
+    ],
+    "tags": [
+        "a11y_screen_keyboard_popup"
+    ]
+}
