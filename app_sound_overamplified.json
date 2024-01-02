@@ -1,15 +1,15 @@
 {
-   "area": [
-       {
-           "xpos": 356,
-           "ypos": 203,
-           "width": 574,
-           "height": 79,
-           "type": "match",
-           "match": 93
-       }
-   ],
-   "tags": [
-       "app_sound_overamplified"
-   ]
+  "area": [
+    {
+      "xpos": 356,
+      "ypos": 203,
+      "width": 574,
+      "height": 79,
+      "type": "match",
+      "match": 93
+    }
+  ],
+  "tags": [
+    "app_sound_overamplified"
+  ]
 }

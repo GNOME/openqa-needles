@@ -1,19 +1,19 @@
 {
-   "area": [
-       {
-           "xpos": 861,
-           "ypos": 117,
-           "width": 50,
-           "height": 26,
-           "type": "match",
-           "match": 93,
-           "click_point": {
-               "xpos": 25,
-               "ypos": 13
-           }
-       }
-   ],
-   "tags": [
-       "app_settings_accessibility_hearing_overamplification_button_off"
-   ]
+  "area": [
+    {
+      "xpos": 861,
+      "ypos": 117,
+      "width": 50,
+      "height": 26,
+      "type": "match",
+      "match": 93,
+      "click_point": {
+        "xpos": 25,
+        "ypos": 13
+      }
+    }
+  ],
+  "tags": [
+    "app_settings_accessibility_hearing_overamplification_button_off"
+  ]
 }
