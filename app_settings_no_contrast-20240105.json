@@ -1,0 +1,19 @@
+{
+  "area": [
+    {
+      "type": "match",
+      "xpos": 862,
+      "height": 36,
+      "ypos": 384,
+      "click_point": {
+        "xpos": 15,
+        "ypos": 19
+      },
+      "width": 49
+    }
+  ],
+  "properties": [],
+  "tags": [
+    "app_settings_no_contrast"
+  ]
+}
