@@ -1,0 +1,19 @@
+{
+  "area": [
+    {
+      "xpos": 865,
+      "ypos": 392,
+      "width": 47,
+      "height": 26,
+      "type": "match",
+      "match": 93,
+      "click_point": {
+        "xpos": 23,
+        "ypos": 13
+      }
+    }
+  ],
+  "tags": [
+    "a11y_show_scrollbar_off"
+  ]
+}
