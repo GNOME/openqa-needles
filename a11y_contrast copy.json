@@ -1,0 +1,19 @@
+{
+  "area": [
+    {
+      "xpos": 354,
+      "ypos": 99,
+      "width": 570,
+      "height": 59,
+      "type": "match",
+      "match": 93,
+      "click_point": {
+        "xpos": 285,
+        "ypos": 29.5
+      }
+    }
+  ],
+  "tags": [
+    "a11y_contrast"
+  ]
+}
