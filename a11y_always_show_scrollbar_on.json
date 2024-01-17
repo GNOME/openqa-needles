@@ -1,10 +1,10 @@
 {
   "area": [
     {
-      "xpos": 355,
-      "ypos": 262,
-      "width": 570,
-      "height": 60,
+      "xpos": 353,
+      "ypos": 378,
+      "width": 574,
+      "height": 52,
       "type": "match",
       "match": 93,
       "click_point": {
@@ -14,6 +14,6 @@
     }
   ],
   "tags": [
-    "app_settings_accessibility_disable_visual_alerts"
+    "a11y_always_show_scrollbar_on"
   ]
 }
