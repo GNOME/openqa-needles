@@ -1,0 +1,19 @@
+{
+  "area": [
+    {
+      "xpos": 862,
+      "click_point": {
+        "xpos": 23,
+        "ypos": 14.5
+      },
+      "width": 46,
+      "ypos": 275,
+      "type": "match",
+      "height": 29
+    }
+  ],
+  "properties": [],
+  "tags": [
+    "app_settings_accessibility_hearing_overamplification_button"
+  ]
+}
