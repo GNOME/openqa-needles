@@ -11,9 +11,16 @@
         "xpos": 287,
         "ypos": 31.5
       }
+    },
+    {
+      "ypos": 272,
+      "width": 13,
+      "xpos": 239,
+      "height": 496,
+      "type": "match"
     }
   ],
   "tags": [
-    "app_settings_accessibility_overlay_scrollbar_on"
+    "a11y_overlay_scrollbar_off"
   ]
 }
