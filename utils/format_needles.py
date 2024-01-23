@@ -22,7 +22,7 @@ def process_json_files(directory):
 
             with open(file_path, 'r', encoding='utf-8') as file:
                 data = json.load(file)
-                pretty_json = json.dumps(data, indent=JSON_INDENT) + "\n"
+                pretty_json = json.dumps(data, indent=JSON_INDENT)
 
                 if pretty_json != original_content:
                     files_with_difference.append(filename)
