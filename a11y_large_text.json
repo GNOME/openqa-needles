@@ -9,11 +9,12 @@
       "match": 93,
       "click_point": {
         "xpos": 17,
-        "ypos": 10
+        "ypos": 10,
+        "id":"disable"
       }
     }
   ],
   "tags": [
-    "a11y_no_largetext"
+    "a11y_large_text"
   ]
 }
