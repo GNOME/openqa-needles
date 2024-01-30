@@ -9,11 +9,12 @@
       "match": 93,
       "click_point": {
         "xpos": 530,
-        "ypos": 25
+        "ypos": 25,
+        "id":"disable"
       }
     }
   ],
   "tags": [
-    "a11y_disable_visual_alerts"
+    "a11y_visual_alerts"
   ]
 }
