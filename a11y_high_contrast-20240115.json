@@ -9,11 +9,12 @@
       "match": 93,
       "click_point": {
         "xpos": 18,
-        "ypos": 10
+        "ypos": 10,
+        "id": "high_contrast_off"
       }
     }
   ],
   "tags": [
-    "a11y_no_contrast"
+    "a11y_high_contrast"
   ]
 }
