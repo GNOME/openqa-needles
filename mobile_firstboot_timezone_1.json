@@ -1,0 +1,16 @@
+{
+  "area": [
+    {
+      "xpos": 0,
+      "ypos": 32,
+      "width": 720,
+      "height": 766,
+      "type": "match",
+      "match": 90
+    }
+  ],
+  "properties": [],
+  "tags": [
+    "gnome_firstboot_timezone_1_mobile"
+  ]
+}
