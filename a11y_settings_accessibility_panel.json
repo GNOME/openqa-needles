@@ -3,16 +3,8 @@
     {
       "xpos": 360,
       "ypos": 182,
-      "width": 567,
-      "height": 272,
-      "type": "match",
-      "match": 92
-    },
-    {
-      "xpos": 360,
-      "ypos": 182,
-      "width": 561,
-      "height": 55,
+      "width": 560,
+      "height": 53,
       "type": "match",
       "match": 92,
       "click_point": {
@@ -22,10 +14,10 @@
       }
     },
     {
-      "xpos": 354,
-      "ypos": 231,
-      "width": 570,
-      "height": 62,
+      "xpos": 360,
+      "ypos": 236,
+      "width": 560,
+      "height": 53,
       "type": "match",
       "match": 92,
       "click_point": {
@@ -35,10 +27,10 @@
       }
     },
     {
-      "xpos": 356,
+      "xpos": 360,
       "ypos": 291,
-      "width": 570,
-      "height": 56,
+      "width": 560,
+      "height": 53,
       "type": "match",
       "match": 92,
       "click_point": {
