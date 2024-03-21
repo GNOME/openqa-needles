@@ -28,5 +28,12 @@
       <gnome:userid>sthursfield</gnome:userid>
     </foaf:Person>
   </maintainer>
+  <maintainer>
+    <foaf:Person>
+      <foaf:name>Neill Whillans</foaf:name>
+      <foaf:mbox rdf:resource="mailto:neill.whillans@codethink.co.uk" />
+      <gnome:userid>nwhillans</gnome:userid>
+    </foaf:Person>
+  </maintainer>
 
 </Project>
