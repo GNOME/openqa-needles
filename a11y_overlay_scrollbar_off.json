@@ -1,6 +1,14 @@
 {
   "area": [
     {
+      "xpos": 239,
+      "ypos": 486,
+      "width": 13,
+      "height": 197,
+      "type": "match",
+      "match": 95
+    },
+    {
       "xpos": 356,
       "ypos": 374,
       "width": 574,
@@ -9,17 +17,11 @@
       "match": 93,
       "click_point": {
         "xpos": 287,
-        "ypos": 31.5
+        "ypos": 32
       }
-    },
-    {
-      "ypos": 272,
-      "width": 13,
-      "xpos": 239,
-      "height": 496,
-      "type": "match"
     }
   ],
+  "properties": [],
   "tags": [
     "a11y_overlay_scrollbar_off"
   ]
