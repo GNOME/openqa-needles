@@ -1,0 +1,15 @@
+{
+  "area": [
+    {
+      "type": "match",
+      "height": 421,
+      "width": 988,
+      "ypos": 136,
+      "xpos": 18
+    }
+  ],
+  "properties": [],
+  "tags": [
+    "app_gnome_weather_home"
+  ]
+}
