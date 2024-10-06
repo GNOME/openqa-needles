@@ -1,0 +1,45 @@
+{
+  "area": [
+    {
+      "click_point": {
+        "ypos": 27.5,
+        "id": "seeing_panel",
+        "xpos": 280.5
+      },
+      "type": "match",
+      "xpos": 313,
+      "ypos": 198,
+      "width": 560,
+      "height": 53
+    },
+    {
+      "height": 53,
+      "width": 558,
+      "ypos": 252,
+      "type": "match",
+      "xpos": 315,
+      "click_point": {
+        "ypos": 31,
+        "id": "hearing_panel",
+        "xpos": 285
+      }
+    },
+    {
+      "click_point": {
+        "ypos": 28,
+        "id": "typing_panel",
+        "xpos": 285
+      },
+      "xpos": 315,
+      "type": "match",
+      "ypos": 307,
+      "width": 556,
+      "height": 53
+    }
+  ],
+  "properties": [],
+  "tags": [
+    "a11y_settings_accessibility_panel",
+    "app_settings_startup"
+  ]
+}
