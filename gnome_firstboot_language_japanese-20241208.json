@@ -1,0 +1,39 @@
+{
+  "area": [
+    {
+      "ypos": 255,
+      "width": 574,
+      "height": 434,
+      "xpos": 224,
+      "type": "match"
+    },
+    {
+      "click_point": {
+        "xpos": 40.5,
+        "ypos": 17
+      },
+      "type": "match",
+      "xpos": 932,
+      "ypos": 37,
+      "width": 87,
+      "height": 37,
+      "match": 90
+    },
+    {
+      "click_point": {
+        "id": "lang_english",
+        "xpos": 291,
+        "ypos": 28.5
+      },
+      "height": 57,
+      "ypos": 296,
+      "width": 582,
+      "type": "match",
+      "xpos": 221
+    }
+  ],
+  "properties": [],
+  "tags": [
+    "gnome_firstboot_language_japanese"
+  ]
+}
