@@ -1,0 +1,19 @@
+{
+  "area": [
+    {
+      "type": "match",
+      "click_point": {
+        "ypos": 22,
+        "xpos": 530
+      },
+      "xpos": 358,
+      "height": 53,
+      "width": 565,
+      "ypos": 105
+    }
+  ],
+  "properties": [],
+  "tags": [
+    "a11y_hearing_overamplification_button"
+  ]
+}
