@@ -14,26 +14,14 @@
     },
     {
       "height": 45,
-      "xpos": 726,
+      "xpos": 713,
       "click_point": {
         "xpos": 48.5,
         "id": "hide",
         "ypos": 22.5
       },
       "type": "match",
-      "ypos": 670,
-      "width": 97
-    },
-    {
-      "height": 45,
-      "xpos": 726,
-      "click_point": {
-        "ypos": 22.5,
-        "id": "hide",
-        "xpos": 48.5
-      },
-      "type": "match",
-      "ypos": 670,
+      "ypos": 717,
       "width": 97
     },
     {
@@ -67,7 +55,8 @@
       "xpos": 659,
       "click_point": {
         "xpos": 25,
-        "ypos": 24
+        "ypos": 24,
+        "id": "l"
       },
       "type": "match"
     },
