@@ -1,0 +1,19 @@
+{
+  "area": [
+    {
+      "width": 41,
+      "ypos": 398,
+      "type": "exclude",
+      "click_point": {
+        "xpos": 21,
+        "ypos": 12
+      },
+      "height": 25,
+      "xpos": 912
+    }
+  ],
+  "properties": [],
+  "tags": [
+    "a11y_large_text"
+  ]
+}
