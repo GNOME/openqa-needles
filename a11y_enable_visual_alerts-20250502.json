@@ -1,0 +1,31 @@
+{
+  "area": [
+    {
+      "width": 568,
+      "ypos": 258,
+      "type": "match",
+      "click_point": {
+        "xpos": 400,
+        "ypos": 30.5,
+        "id": "enable"
+      },
+      "xpos": 355,
+      "height": 61
+    },
+    {
+      "width": 568,
+      "ypos": 258,
+      "click_point": {
+        "xpos": 532,
+        "ypos": 29.5
+      },
+      "type": "match",
+      "xpos": 355,
+      "height": 61
+    }
+  ],
+  "properties": [],
+  "tags": [
+    "a11y_enable_visual_alerts"
+  ]
+}
