@@ -12,19 +12,6 @@
         "ypos": 30.5,
         "id": "enable"
       }
-    },
-    {
-      "xpos": 353,
-      "ypos": 261,
-      "width": 568,
-      "height": 61,
-      "type": "match",
-      "match": 93,
-      "click_point": {
-        "xpos": 400,
-        "ypos": 30.5,
-        "id": "disable"
-      }
     }
   ],
   "tags": [

@@ -11,17 +11,6 @@
       },
       "ypos": 258,
       "width": 568
-    },
-    {
-      "ypos": 258,
-      "width": 568,
-      "xpos": 355,
-      "height": 61,
-      "click_point": {
-        "xpos": 531,
-        "ypos": 28.5
-      },
-      "type": "match"
     }
   ],
   "properties": [],
