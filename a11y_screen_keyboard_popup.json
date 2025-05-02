@@ -27,19 +27,6 @@
       }
     },
     {
-      "xpos": 713,
-      "ypos": 722,
-      "width": 97,
-      "height": 45,
-      "type": "match",
-      "match": 78,
-      "click_point": {
-        "xpos": 48.5,
-        "ypos": 22.5,
-        "id": "hide"
-      }
-    },
-    {
       "xpos": 506,
       "ypos": 620,
       "width": 45,
