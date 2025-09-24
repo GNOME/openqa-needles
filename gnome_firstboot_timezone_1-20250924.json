@@ -1,0 +1,27 @@
+{
+  "area": [
+    {
+      "click_point": {
+        "id": "search_entry",
+        "xpos": 10,
+        "ypos": 10
+      },
+      "width": 90,
+      "height": 20,
+      "xpos": 290,
+      "type": "match",
+      "ypos": 180
+    },
+    {
+      "width": 1024,
+      "ypos": 31,
+      "height": 735,
+      "xpos": 0,
+      "type": "match"
+    }
+  ],
+  "properties": [],
+  "tags": [
+    "gnome_firstboot_timezone_1"
+  ]
+}
