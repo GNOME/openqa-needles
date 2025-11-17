@@ -1,0 +1,15 @@
+{
+  "area": [
+    {
+      "height": 400,
+      "type": "match",
+      "ypos": 120,
+      "xpos": 0,
+      "width": 1024
+    }
+  ],
+  "properties": [],
+  "tags": [
+    "a11y_zoom"
+  ]
+}
