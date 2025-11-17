@@ -1,0 +1,22 @@
+{
+  "area": [
+    {
+      "type": "match",
+      "height": 690,
+      "width": 869,
+      "ypos": 56,
+      "xpos": 78
+    },
+    {
+      "xpos": 219,
+      "ypos": 114,
+      "width": 581,
+      "height": 79,
+      "type": "exclude"
+    }
+  ],
+  "properties": [],
+  "tags": [
+    "app_gnome_clocks_home"
+  ]
+}
