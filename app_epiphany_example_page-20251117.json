@@ -1,0 +1,15 @@
+{
+  "area": [
+    {
+      "type": "match",
+      "height": 737,
+      "ypos": 30,
+      "width": 1024,
+      "xpos": 0
+    }
+  ],
+  "properties": [],
+  "tags": [
+    "app_epiphany_example_page"
+  ]
+}
