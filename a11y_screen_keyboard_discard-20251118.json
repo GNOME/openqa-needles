@@ -1,0 +1,19 @@
+{
+  "area": [
+    {
+      "width": 109,
+      "click_point": {
+        "xpos": 57.5,
+        "ypos": 27.5
+      },
+      "ypos": 474,
+      "xpos": 458,
+      "height": 54,
+      "type": "match"
+    }
+  ],
+  "properties": [],
+  "tags": [
+    "a11y_screen_keyboard_discard"
+  ]
+}
