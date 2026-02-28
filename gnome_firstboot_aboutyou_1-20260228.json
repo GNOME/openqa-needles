@@ -1,0 +1,26 @@
+{
+  "area": [
+    {
+      "type": "match",
+      "width": 69,
+      "click_point": {
+        "ypos": 18,
+        "xpos": 32
+      },
+      "height": 40,
+      "ypos": 35,
+      "xpos": 949
+    },
+    {
+      "width": 1022,
+      "type": "match",
+      "xpos": 0,
+      "height": 693,
+      "ypos": 75
+    }
+  ],
+  "properties": [],
+  "tags": [
+    "gnome_firstboot_aboutyou_1"
+  ]
+}
