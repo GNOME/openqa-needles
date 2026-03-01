@@ -1,0 +1,15 @@
+{
+  "area": [
+    {
+      "type": "match",
+      "width": 360,
+      "height": 723,
+      "ypos": 31,
+      "xpos": 0
+    }
+  ],
+  "properties": [],
+  "tags": [
+    "app_gnome_font_viewer_home_mobile"
+  ]
+}
