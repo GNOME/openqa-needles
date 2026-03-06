@@ -1,0 +1,22 @@
+{
+  "area": [
+    {
+      "ypos": 140,
+      "height": 519,
+      "xpos": 148,
+      "type": "match",
+      "width": 729
+    },
+    {
+      "xpos": 380,
+      "ypos": 139,
+      "width": 262,
+      "height": 39,
+      "type": "exclude"
+    }
+  ],
+  "properties": [],
+  "tags": [
+    "app_gnome_console_home"
+  ]
+}
