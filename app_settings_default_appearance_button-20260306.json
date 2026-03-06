@@ -1,0 +1,26 @@
+{
+  "area": [
+    {
+      "xpos": 482,
+      "height": 58,
+      "ypos": 210,
+      "width": 85,
+      "click_point": {
+        "xpos": 40,
+        "ypos": 38
+      },
+      "type": "match"
+    },
+    {
+      "xpos": 516,
+      "ypos": 184,
+      "width": 81,
+      "height": 62,
+      "type": "match"
+    }
+  ],
+  "properties": [],
+  "tags": [
+    "default_appearance_button"
+  ]
+}
