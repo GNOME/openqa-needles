@@ -29,7 +29,7 @@
   "properties": [
     {
       "name": "workaround",
-      "value": "We need to figure out why logout is missing"
+      "value": "This is pending design review https://gitlab.gnome.org/GNOME/gnome-shell/-/issues/9100"
     }
   ],
   "tags": [
