@@ -19,12 +19,6 @@
       "type": "match"
     }
   ],
-  "properties": [
-    {
-      "name": "workaround",
-      "value": "Pending design review This is pending design review https://gitlab.gnome.org/GNOME/gnome-shell/-/issues/9100"
-    }
-  ],
   "tags": [
     "gnome_shutdown_systemmenu_power"
   ]

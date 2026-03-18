@@ -26,12 +26,6 @@
       "type": "match"
     }
   ],
-  "properties": [
-    {
-      "name": "workaround",
-      "value": "This is pending design review https://gitlab.gnome.org/GNOME/gnome-shell/-/issues/9100"
-    }
-  ],
   "tags": [
     "gnome_reboot_systemmenu_reboot"
   ]
