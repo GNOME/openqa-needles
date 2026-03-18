@@ -1,0 +1,38 @@
+{
+  "area": [
+    {
+      "type": "match",
+      "width": 82,
+      "click_point": {
+        "xpos": 41,
+        "ypos": 14
+      },
+      "height": 28,
+      "ypos": 216,
+      "xpos": 655
+    },
+    {
+      "xpos": 642,
+      "ypos": 116,
+      "height": 172,
+      "width": 344,
+      "type": "match"
+    },
+    {
+      "xpos": 821,
+      "ypos": 340,
+      "width": 10,
+      "height": 10,
+      "type": "match"
+    }
+  ],
+  "properties": [
+    {
+      "name": "workaround",
+      "value": "We need to figure out why logout is missing"
+    }
+  ],
+  "tags": [
+    "gnome_reboot_systemmenu_reboot"
+  ]
+}
