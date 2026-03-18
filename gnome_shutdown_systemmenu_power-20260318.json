@@ -1,0 +1,25 @@
+{
+  "area": [
+    {
+      "type": "match",
+      "width": 346,
+      "click_point": {
+        "xpos": 51,
+        "ypos": 152
+      },
+      "height": 172,
+      "ypos": 114,
+      "xpos": 641
+    },
+    {
+      "xpos": 653,
+      "ypos": 256,
+      "height": 19,
+      "width": 95,
+      "type": "match"
+    }
+  ],
+  "tags": [
+    "gnome_shutdown_systemmenu_power"
+  ]
+}
