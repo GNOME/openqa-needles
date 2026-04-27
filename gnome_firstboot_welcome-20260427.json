@@ -1,0 +1,33 @@
+{
+  "area": [
+    {
+      "height": 36,
+      "ypos": 38,
+      "type": "match",
+      "xpos": 935,
+      "width": 67,
+      "click_point": {
+        "ypos": 18,
+        "xpos": 33.5
+      }
+    },
+    {
+      "width": 1024,
+      "height": 736,
+      "ypos": 32,
+      "type": "match",
+      "xpos": 0
+    },
+    {
+      "height": 56,
+      "ypos": 100,
+      "type": "exclude",
+      "xpos": 10,
+      "width": 1010
+    }
+  ],
+  "properties": [],
+  "tags": [
+    "gnome_firstboot_welcome"
+  ]
+}
