@@ -1,0 +1,31 @@
+{
+  "area": [
+    {
+      "xpos": 935,
+      "height": 36,
+      "ypos": 38,
+      "type": "match",
+      "click_point": {
+        "ypos": 18,
+        "xpos": 33.5
+      },
+      "width": 67
+    },
+    {
+      "width": 1023,
+      "xpos": 1,
+      "ypos": 32,
+      "height": 734,
+      "type": "match"
+    }
+  ],
+  "properties": [
+    {
+      "name": "workaround",
+      "value": "https://gitlab.gnome.org/GNOME/gnome-initial-setup/-/merge_requests/239"
+    }
+  ],
+  "tags": [
+    "gnome_firstboot_aboutyou_2"
+  ]
+}
