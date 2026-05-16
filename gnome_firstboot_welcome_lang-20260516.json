@@ -1,0 +1,55 @@
+{
+  "area": [
+    {
+      "height": 37,
+      "ypos": 197,
+      "type": "match",
+      "click_point": {
+        "xpos": 289,
+        "ypos": 15
+      },
+      "xpos": 222,
+      "width": 579
+    },
+    {
+      "width": 576,
+      "click_point": {
+        "xpos": 288,
+        "id": "lang_arabic",
+        "ypos": 26
+      },
+      "type": "match",
+      "xpos": 225,
+      "ypos": 483,
+      "height": 52
+    },
+    {
+      "click_point": {
+        "ypos": 28.5,
+        "id": "lang_japanese",
+        "xpos": 287
+      },
+      "xpos": 224,
+      "type": "match",
+      "width": 574,
+      "height": 57,
+      "ypos": 531
+    },
+    {
+      "ypos": 438,
+      "height": 51,
+      "width": 581,
+      "type": "match",
+      "click_point": {
+        "ypos": 20.5,
+        "xpos": 290.5,
+        "id": "lang_russian"
+      },
+      "xpos": 223
+    }
+  ],
+  "properties": [],
+  "tags": [
+    "gnome_firstboot_welcome_lang"
+  ]
+}
