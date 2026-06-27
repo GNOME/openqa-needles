@@ -1,0 +1,36 @@
+{
+  "area": [
+    {
+      "xpos": 33,
+      "ypos": 101,
+      "width": 958,
+      "height": 599,
+      "type": "match"
+    },
+    {
+      "xpos": 354,
+      "ypos": 267,
+      "width": 85,
+      "height": 19,
+      "type": "exclude"
+    },
+    {
+      "xpos": 280,
+      "ypos": 303,
+      "width": 475,
+      "height": 16,
+      "type": "exclude"
+    },
+    {
+      "xpos": 614,
+      "ypos": 265,
+      "width": 141,
+      "height": 36,
+      "type": "exclude"
+    }
+  ],
+  "properties": [],
+  "tags": [
+    "app_baobab_home"
+  ]
+}
