@@ -1,0 +1,22 @@
+{
+  "area": [
+    {
+      "width": 708,
+      "type": "match",
+      "ypos": 126,
+      "xpos": 249,
+      "height": 550
+    },
+    {
+      "height": 450,
+      "xpos": 693,
+      "ypos": 195,
+      "type": "exclude",
+      "width": 250
+    }
+  ],
+  "properties": [],
+  "tags": [
+    "app_nautilus_list_view"
+  ]
+}
