@@ -1,0 +1,15 @@
+{
+  "area": [
+    {
+      "width": 1023,
+      "ypos": 30,
+      "type": "match",
+      "xpos": 1,
+      "height": 735
+    }
+  ],
+  "properties": [],
+  "tags": [
+    "app_yelp_home"
+  ]
+}
