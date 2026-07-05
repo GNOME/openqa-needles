@@ -1,0 +1,22 @@
+{
+  "area": [
+    {
+      "height": 735,
+      "xpos": 1,
+      "ypos": 32,
+      "type": "match",
+      "width": 1022
+    },
+    {
+      "type": "exclude",
+      "ypos": 78,
+      "width": 914,
+      "height": 689,
+      "xpos": 109
+    }
+  ],
+  "properties": [],
+  "tags": [
+    "app_gnome_logs_home"
+  ]
+}
