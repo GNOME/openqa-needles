@@ -1,0 +1,33 @@
+{
+  "area": [
+    {
+      "ypos": 578,
+      "height": 30,
+      "width": 131,
+      "click_point": {
+        "xpos": 67.5,
+        "ypos": 15
+      },
+      "xpos": 345,
+      "type": "match"
+    },
+    {
+      "type": "match",
+      "xpos": 305,
+      "height": 494,
+      "width": 410,
+      "ypos": 133
+    },
+    {
+      "xpos": 501,
+      "ypos": 466,
+      "width": 179,
+      "height": 56,
+      "type": "exclude"
+    }
+  ],
+  "properties": [],
+  "tags": [
+    "gnome_desktop_tour"
+  ]
+}
