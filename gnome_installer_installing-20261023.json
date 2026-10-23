@@ -1,0 +1,22 @@
+{
+  "area": [
+    {
+      "type": "match",
+      "xpos": 117,
+      "width": 790,
+      "ypos": 106,
+      "height": 577
+    },
+    {
+      "height": 46,
+      "ypos": 510,
+      "width": 50,
+      "type": "exclude",
+      "xpos": 485
+    }
+  ],
+  "properties": [],
+  "tags": [
+    "gnome_installer_installing"
+  ]
+}
