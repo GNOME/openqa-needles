@@ -1,0 +1,26 @@
+{
+  "area": [
+    {
+      "ypos": 482,
+      "click_point": {
+        "ypos": 24,
+        "xpos": 385
+      },
+      "height": 49,
+      "width": 771,
+      "type": "match",
+      "xpos": 125
+    },
+    {
+      "height": 36,
+      "ypos": 413,
+      "width": 218,
+      "type": "match",
+      "xpos": 402
+    }
+  ],
+  "properties": [],
+  "tags": [
+    "gnome_installer_disk"
+  ]
+}
