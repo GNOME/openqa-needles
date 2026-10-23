@@ -1,0 +1,26 @@
+{
+  "area": [
+    {
+      "ypos": 36,
+      "height": 36,
+      "width": 180,
+      "xpos": 419,
+      "type": "match"
+    },
+    {
+      "width": 335,
+      "type": "match",
+      "xpos": 260,
+      "height": 40,
+      "click_point": {
+        "ypos": 18,
+        "xpos": 34
+      },
+      "ypos": 233
+    }
+  ],
+  "properties": [],
+  "tags": [
+    "gnome_firstboot_timezone_2"
+  ]
+}
